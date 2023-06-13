@@ -12,7 +12,7 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
       - s3 bucket is located within the starburstdata-field AWS account (188806360106)
         - Bucket: s3://starburst-galaxy-workshop/
         - Create a new directory within that path (e.g. "org_a")
-        - Copy rideshare-demo path into newly created directory
+        - Copy the "copy_from_here" path into newly created directory
       - Galaxy Configuration
         - Prohibit Creating and Writing to External Tables
         - Only Role that SA is using has write privileges
