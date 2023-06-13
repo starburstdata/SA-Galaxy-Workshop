@@ -8,7 +8,7 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
 2. Request the Champion to add you to the domain with [AccountAdmin Privledges ](https://docs.starburst.io/starburst-galaxy/access-control/roles-privileges.html#add-a-role)
 3. Once you have access to the cluster create the following Catalogs
    - [s3](https://github.com/starburstdata/SA-Galaxy-Onsite-pre-work/blob/main/module_one/Create_S3_Catalog.pdf) 
-      - Access Keys to s3 are located within Keeper 
+      - Access Keys to s3 are located within Keeper (search for "Starburst Galaxy Workshops AWS Access Key")
       - s3 bucket is located within the starburstdata-field AWS account (188806360106)
         - Bucket: s3://starburst-galaxy-workshop/
         - Create a new directory within that path (e.g. "org_a")
