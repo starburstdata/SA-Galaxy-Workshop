@@ -21,7 +21,7 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
    - [RDBMS](https://github.com/starburstdata/SA-Galaxy-Onsite-pre-work/blob/main/module_one/Create_RDBMS_Catalog.pdf)
 4. Create a Role to be used by attendees with the following constraints
    - Does not have "Grant to creating role?" access on the Add new Role screen
-   - Location Access to "s3://starburst-galaxy-workshop/galaxy_workshop/org_a/*"
+   - Location Access to "s3://starburst-galaxy-workshop/org_a/*"
    - Select Only Access to s3 Catalog
    - Select Only Access to RDBMS Catalog
    - Use Cluster Access for Cluster "Sample"
