@@ -1,1 +1,1 @@
-Test Readme for Module 1
+Module 1 - Starburst Galaxy Overview
