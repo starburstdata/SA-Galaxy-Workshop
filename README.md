@@ -1,4 +1,4 @@
-# SA-Galaxy-Onsite-pre-work
+# SA-Galaxy-Workshop
 
 Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
 
