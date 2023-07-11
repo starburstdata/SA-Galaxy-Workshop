@@ -4,7 +4,7 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
 
 ## Steps to Prepping for an Onsite Galaxy Workshop
 
-1. Get list of attendees from Prospect
+1. Get list of attendees from Prospect (Needs additional Detail from Duy)
 2. Create a Galaxy Domain for the Prospect [Create a Galaxy Domain ](https://www.starburst.io/platform/starburst-galaxy/start/)
 3. Create a Role to be used by attendees with the following constraints
    - Does not have "Grant to creating role?" access on the Add new Role screen
