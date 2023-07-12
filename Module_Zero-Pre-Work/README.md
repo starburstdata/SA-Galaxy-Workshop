@@ -5,7 +5,12 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
 ## Steps to Prepping for an Onsite Galaxy Workshop
 
 1. Get list of attendees from Prospect
+   - Identify Workshop coordinator/lead from prospect and request the following information
+   - Understand # of attendees
+   - Gather emails and roles from attendees
+   - [Optional] Goals of the attendees from the workshop, years of experience
 2. Create a Galaxy Domain for the Prospect [Create a Galaxy Domain ](https://www.starburst.io/platform/starburst-galaxy/start/)
+   - You can use youremail+yourgalaxyprospect@starburstdata.com (add + after your email to create additional domains using your same email)
 3. Once you have access to the cluster create the following Catalogs
    - [s3](https://github.com/starburstdata/SA-Galaxy-Onsite-pre-work/blob/main/module_one/Create_S3_Catalog.pdf) 
       - Access Keys to s3 are located within Keeper (search for "Starburst Galaxy Workshops AWS Access Key")
