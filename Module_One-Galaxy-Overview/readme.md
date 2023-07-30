@@ -1,5 +1,7 @@
 # Module 1 - Starburst Galaxy Overview
 
+Link to Module 1 Slides : https://docs.google.com/presentation/d/10yZa72qK4E1a7qTeN5dlDfkwCF7lHu_-ClyJgunfYZ0/edit#slide=id.g237b692b070_1_0
+
 Module 1 is the Basic Starburst Galaxy overview module. The module is designed to provide an introduction to the Galaxy SaaS platform for your lab attendees. 
 The module will cover the following areas:
 
