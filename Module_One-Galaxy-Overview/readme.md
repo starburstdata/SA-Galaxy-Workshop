@@ -14,13 +14,14 @@ The module will cover the following areas:
 
 - Cluster Overview [10 Mins] Demo/Slides
 
-- Have the users login to the pre-configured domain
+- How to create a Catalog [10 Mins] Demo
+  - Reference "Create S3 Catalog" PDF in this directory for your demo if you need a refresher
+  - Reference "Create Database Catalog" PDF in this directory for your demo if you need a refresher
+ 
+- Break the audience into their groups and Create their group catalogs
+  - Have the audience get into their groups
+  - Have the audience choose one person to login and following the instructions slide create their group S3 Catalog
 
-- How to create a Catalog [10 Mins] Demo/Slides
-  - This is where participants will actually create a catalog for each group
-  - Reference "Create S3 Catalog" PDF in this directory for your demo
-  - Reference "Create Database Catalog" PDF in this directory for your demo
-
-To squeeze all of the above topics into the first hour, we have intentionally not had the lab attendees login to Galaxy yet and be distracted during this overview. At the end of the overview module, they can login and this will mark the transition to Module 2.
+To squeeze all of the above topics into the first hour, we have intentionally not had the lab attendees login to Galaxy yet and be distracted during this overview. At the end of the overview module, they will break into groups and create a catalog. The next module will utilize the newly created catalog for Schema Discovery, Data Product creation, and Data Discovery.
 
 
