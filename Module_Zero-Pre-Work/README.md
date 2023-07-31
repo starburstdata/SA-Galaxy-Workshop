@@ -14,7 +14,7 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
    - For user creation, you can use youremail+yourgalaxyprospectUser1@starburstdata.com, youremail+yourgalaxyprospectUser2@starburstdata.com, etc 
 3. Configure Cross Account Role for the Prospects Domain
    - WIP
-4. Steps for SA to walk through in AWS to create new object directory for prospect (Yusuf To-do)
+4. Copy Data into Requisite location within AWS s3, reference this [doc](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_Zero-Pre-Work/AWS_S3_Setup.pdf) for more info 
 5. Create an RDBMS to be used later if needed (Federation or Data Products or Data Discovery)
    - [RDBMS](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_One-Galaxy-Overview/Create_Database_Catalog.pdf)
       - Reference the "AWS Redshift" credentials within Keeper to configure connection details
