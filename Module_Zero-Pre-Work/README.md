@@ -32,4 +32,4 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
    - Select Only Access to s3 Catalog
    - Select Only Access to RDBMS Catalog
    - Use Cluster Access for Cluster "Sample"
-   - Deny Access to Create/Alter Existing Roles (this does not look like it is possible in Galaxy rn)
+   - Deny Access to Create/Alter Existing Roles
