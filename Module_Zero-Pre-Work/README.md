@@ -11,18 +11,20 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
    - [Optional] Goals of the attendees from the workshop, years of experience
 2. Create a Galaxy Domain for the Prospect [Create a Galaxy Domain ](https://www.starburst.io/platform/starburst-galaxy/start/)
    - You can use youremail+yourgalaxyprospect@starburstdata.com (add + after your email to create additional domains using your same email)
-   - For user creation you can use youremail+yourgalaxyprospectUser1@starburstdata.com, youremail+yourgalaxyprospectUser2@starburstdata.com, etc 
+   - For user creation, you can use youremail+yourgalaxyprospectUser1@starburstdata.com, youremail+yourgalaxyprospectUser2@starburstdata.com, etc 
 3. Configure Cross Account Role for the Prospects Domain
    - WIP
-4. Create an RDBMS to be used later if needed (Federation or Data Products or Data Discovery)
+4. Steps for SA to walk through in AWS to create new object directory for prospect (Yusuf To-do)
+5. Create an RDBMS to be used later if needed (Federation or Data Products or Data Discovery)
    - [RDBMS](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_One-Galaxy-Overview/Create_Database_Catalog.pdf)
       - Reference the "AWS Redshift" credentials within Keeper to configure connection details
-5. Create a Role to be used by attendees with the following constraints
+      - Leverage your bastion host to connect 
+6. Create a Role to be used by attendees with the following constraints
    - Does not have "Grant to creating role?" access on the Add new Role screen
    - Has the following Account level permissions
    - <img width="836" alt="image" src="https://github.com/starburstdata/SA-Galaxy-Workshop/assets/115039992/90531608-79d2-4954-8c2b-6c1ea0acc536">
 
-   - Location Access to "s3://starburst-galaxy-workshop/org_a/*"
-   - Select Only Access to s3 Catalog
+   - Location Access to "s3://starburst-galaxy-workshop/org_a (e.g. walmart)/*"
    - Select Only Access to RDBMS Catalog
-   - Use Cluster Access for Cluster "Sample"
+   - Full access to s3 catalog (read/write)
+   
