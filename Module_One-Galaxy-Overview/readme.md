@@ -12,8 +12,6 @@ The module will cover the following areas:
 - Galaxy UI Walkthrough [10 Mins] 
   - We recommend walking through Galaxy UI Live by sharing your screen and driving through the UI. A "how-to" video provided in UI Overview Folder is provided as an example.
 
-- Cluster Overview [10 Mins] Demo/Slides
-
 - How to create a Catalog [10 Mins] Demo
   - Reference "Create S3 Catalog" PDF in this directory for your demo if you need a refresher
   - Reference "Create Database Catalog" PDF in this directory for your demo if you need a refresher
