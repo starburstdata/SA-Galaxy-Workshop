@@ -1,5 +1,5 @@
 ## Module 2 - Starburst Galaxy Cluster Creation and Admin
-### Link to Module 1 Slides : [Link](https://docs.google.com/presentation/d/1o3LiT0uKopCGgKTV51Wse_1K82YeNA6V5OJN62ouW6Q/edit?usp=sharing)
+### Link to Module 2 Slides : [Link](https://docs.google.com/presentation/d/1o3LiT0uKopCGgKTV51Wse_1K82YeNA6V5OJN62ouW6Q/edit?usp=sharing)
 
 Module 2 is a general cluster creation and administration module. The module is designed to provide an introduction to the process of creating/managing clusters and catalogs within the Galaxy SaaS platform. 
 
