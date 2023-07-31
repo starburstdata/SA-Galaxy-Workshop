@@ -6,11 +6,11 @@ Module 1 is the Basic Starburst Galaxy overview module. The module is designed t
 The module will cover the following areas:
 
 - Basic Galaxy Architecture [5-10 Mins] Slides
-  - We recommend walking through this section with the pre-built slides. Referrence "Galaxy Architecture" PDF in this directory.
+  - We recommend walking through this section with the pre-built slides.
 - Galaxy Usecases [5-10 Mins] Slides
   - In Development
 - Galaxy UI Walkthrough [10 Mins] 
-  - We recommend walking through Galaxy UI Live by sharing your screen and driving through the UI. A "how-to" video provided in UI Overview Folder.
+  - We recommend walking through Galaxy UI Live by sharing your screen and driving through the UI. A "how-to" video provided in UI Overview Folder is provided as an example.
 
 - Cluster Overview [10 Mins] Demo/Slides
 
