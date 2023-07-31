@@ -5,11 +5,12 @@ Module 2 is a general cluster creation and administration module. The module is 
 
 The module will cover the following areas:
 
-- Attaching Catalogs [10-15 Mins] Slides
+- Cluster Mode Types, Sizing and Auto-Suspend [10-15 Mins] Slides
 
-- Cluster Mode Types [10-15 Mins] Slides
+- Catalog Specifics [10-15 Mins] Slides
 
-- Connecting to a Cluster [5-10 Mins] Slides
+- Group Work: Creating a Cluster [10-15 Mins] Slides / Live Work
 
-At this point in the process, attendees will generally already have access to the Domain and be able to walkthrough many of the steps in the deck above by themselves. Because of this, we recommend allocating a full hour to this session to handle any troubleshooting issues that may arise. 
+- Group Work: Creating a Catalog and Attaching it to the Cluster [10-15 Mins] Slides / Live Work
+
 
