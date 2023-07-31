@@ -10,7 +10,7 @@ The module will cover the following areas:
 - Catalog Specifics [10-15 Mins] Slides
 
 - Group Work: Creating a Cluster [10-15 Mins] Slides / Live Work
+    - Part of this exercise will be attaching the Catalog created from Module 1 to the new cluster
 
-- Group Work: Attach Catalog from Module 1 to the newly created Cluster [5 - 10 Mins] Slides / Live Work
 
 
