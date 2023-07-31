@@ -17,6 +17,7 @@ The module will cover the following areas:
 - Have the users login to the pre-configured domain
 
 - How to create a Catalog [10 Mins] Demo/Slides
+  - This is where participants will actually create a catalog for each group
   - Reference "Create S3 Catalog" PDF in this directory for your demo
   - Reference "Create Database Catalog" PDF in this directory for your demo
 
