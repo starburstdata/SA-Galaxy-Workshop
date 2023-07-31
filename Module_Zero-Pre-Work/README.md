@@ -9,6 +9,8 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
    - Understand # of attendees [Modules designed for smaller total # of Attendees, 3-15]
    - Gather emails and roles from attendees
    - [Optional] Goals of the attendees from the workshop, years of experience
+   - Once you have the attendee list, create up to 3 seperate groups [Group A, B, C]
+        -These groups will be used for live execution of workshop tasks
 2. Create a Galaxy Domain for the Prospect [Create a Galaxy Domain ](https://www.starburst.io/platform/starburst-galaxy/start/)
    - You can use youremail+yourgalaxyprospect@starburstdata.com (add + after your email to create additional domains using your same email)
    - For user creation, you can use youremail+yourgalaxyprospectUser1@starburstdata.com, youremail+yourgalaxyprospectUser2@starburstdata.com, etc 
