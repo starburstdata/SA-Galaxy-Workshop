@@ -28,8 +28,10 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
       - Reference the "AWS Redshift" credentials within Keeper to configure connection details
 4. Create a Role to be used by attendees with the following constraints
    - Does not have "Grant to creating role?" access on the Add new Role screen
+   - Has the following Account level permissions
+   - <img width="836" alt="image" src="https://github.com/starburstdata/SA-Galaxy-Workshop/assets/115039992/90531608-79d2-4954-8c2b-6c1ea0acc536">
+
    - Location Access to "s3://starburst-galaxy-workshop/org_a/*"
    - Select Only Access to s3 Catalog
    - Select Only Access to RDBMS Catalog
    - Use Cluster Access for Cluster "Sample"
-   - Deny Access to Create/Alter Existing Roles
