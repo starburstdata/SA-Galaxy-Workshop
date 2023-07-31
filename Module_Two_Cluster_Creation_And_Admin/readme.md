@@ -11,6 +11,6 @@ The module will cover the following areas:
 
 - Group Work: Creating a Cluster [10-15 Mins] Slides / Live Work
 
-- Group Work: Creating a Catalog and Attaching it to the Cluster [10-15 Mins] Slides / Live Work
+- Group Work: Attach Catalog from Module 1 to the newly created Cluster [5 - 10 Mins] Slides / Live Work
 
 
