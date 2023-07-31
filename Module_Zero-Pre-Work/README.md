@@ -6,7 +6,7 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
 
 1. Get list of attendees from Prospect
    - Identify Workshop coordinator/lead from prospect and request the following information
-   - Understand # of attendees
+   - Understand # of attendees [Modules designed for smaller total # of Attendees, 3-15]
    - Gather emails and roles from attendees
    - [Optional] Goals of the attendees from the workshop, years of experience
 2. Create a Galaxy Domain for the Prospect [Create a Galaxy Domain ](https://www.starburst.io/platform/starburst-galaxy/start/)
