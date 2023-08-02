@@ -18,7 +18,7 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
 3. Configure Cross Account Role for the Prospects Domain
    - Reference documentation [here](https://docs.starburst.io/starburst-galaxy/security/external-aws.html#cross-account-iam-role)
 4. Copy Data into Requisite location within AWS s3, reference this [doc](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_Zero-Pre-Work/AWS_S3_Setup.pdf) for more info 
-5. Create an RDBMS to be used later if needed (Federation or Data Products or Data Discovery)
+5. Create an RDBMS to be used later if needed (Federation or Data Products or Data Discovery) **the instructions below reference Redshift but we will be using Postgres
    - [RDBMS](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_One-Galaxy-Overview/Create_Database_Catalog.pdf)
       - Reference the "Galaxy Onsite Workshop Postgres" credentials within Keeper to configure connection details (Reach out to an SA on the West 4 team if you need access)
 6. Create a Role to be used by attendees with the following constraints
