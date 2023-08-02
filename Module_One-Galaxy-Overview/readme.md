@@ -8,7 +8,9 @@ The module will cover the following areas:
 - Basic Galaxy Architecture [5-10 Mins] Slides
   - We recommend walking through this section with the pre-built slides.
 - Galaxy Usecases [5-10 Mins] Slides
-  - In Development
+  - Adhoc / Interactive / Business Intelligence
+  - ETL/ELT
+
 - Galaxy UI Walkthrough [10 Mins] 
   - We recommend walking through Galaxy UI Live by sharing your screen and driving through the UI. A "how-to" video provided in UI Overview Folder is provided as an example.
 
