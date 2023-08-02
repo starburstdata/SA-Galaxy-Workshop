@@ -10,6 +10,7 @@ The module will cover the following areas:
 - Galaxy Usecases [5-10 Mins] Slides
   - Adhoc / Interactive / Business Intelligence
   - ETL/ELT
+  - Embed
 
 - Galaxy UI Walkthrough [10 Mins] 
   - We recommend walking through Galaxy UI Live by sharing your screen and driving through the UI. A "how-to" video provided in UI Overview Folder is provided as an example.
