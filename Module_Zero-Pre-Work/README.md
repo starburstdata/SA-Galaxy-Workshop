@@ -29,4 +29,6 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
    - Location Access to "s3://starburst-galaxy-workshop/org_a (e.g. walmart)/*"
    - Select Only Access to RDBMS Catalog
    - Full access to s3 catalog (read/write)
+7. Add users to cluster with the role created in Step #6 above
+     - Note the invite link is currently only valid for 24hrs so please complete this step within that timeframe of the workshop starting. 
    
