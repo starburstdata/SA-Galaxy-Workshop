@@ -14,7 +14,8 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
         -3 Groups because we can only have up to 3 free clusters per domain in Galaxy
 2. Create a Galaxy Domain for the Prospect [Create a Galaxy Domain ](https://www.starburst.io/platform/starburst-galaxy/start/)
    - You can use youremail+yourgalaxyprospect@starburstdata.com (add + after your email to create additional domains using your same email)
-   - For user creation, you can use youremail+yourgalaxyprospectUser1@starburstdata.com, youremail+yourgalaxyprospectUser2@starburstdata.com, etc 
+   - For user creation, you can use youremail+yourgalaxyprospectUser1@starburstdata.com, youremail+yourgalaxyprospectUser2@starburstdata.com, etc
+        - Record each username and password. You will provide these to the attendees yourself. Use a generic lab password. 
 3. Configure Cross Account Role for the Prospects Domain
    - Reference documentation [here](https://docs.starburst.io/starburst-galaxy/security/external-aws.html#cross-account-iam-role)
 4. Copy Data into Requisite location within AWS s3, reference this [doc](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_Zero-Pre-Work/AWS_S3_Setup.pdf) for more info 
