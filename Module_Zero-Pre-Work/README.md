@@ -30,5 +30,6 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
    - Select Only Access to RDBMS Catalog
    - Full access to s3 catalog (read/write)
 7. Add users to cluster with the role created in Step #6 above
-     - Note the invite link is currently only valid for 24hrs so please complete this step within that timeframe of the workshop starting. 
+     - Note the invite link is currently only valid for 24hrs so please complete this step within that timeframe of the workshop starting.
+8. Delete Sample Cluster that comes by default with the domain.
    
