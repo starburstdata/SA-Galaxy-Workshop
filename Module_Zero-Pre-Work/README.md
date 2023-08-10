@@ -16,7 +16,7 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
    - You can use youremail+yourgalaxyprospect@starburstdata.com (add + after your email to create additional domains using your same email)
    - For user creation, you can use youremail+yourgalaxyprospectUser1@starburstdata.com, youremail+yourgalaxyprospectUser2@starburstdata.com, etc
         - Record each username and password. You will provide these to the attendees yourself. Use a generic lab password. 
-3. Configure Cross Account Role for the Prospects Domain
+3. Configure Cross Account Role for the Prospects Domain (utilize the starburstdata-field account with the solution_architect role)
    - Reference documentation [here](https://docs.starburst.io/starburst-galaxy/security/external-aws.html#cross-account-iam-role)
 4. Copy Data into Requisite location within AWS s3, reference this [doc](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_Zero-Pre-Work/AWS_S3_Setup.pdf) for more info 
 5. Create an RDBMS to be used later if needed (Federation or Data Products or Data Discovery) **the instructions below reference Redshift but we will be using Postgres
