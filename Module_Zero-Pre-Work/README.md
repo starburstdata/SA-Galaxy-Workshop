@@ -32,6 +32,9 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
    - <img width="836" alt="image" src="https://github.com/starburstdata/SA-Galaxy-Workshop/assets/115039992/90531608-79d2-4954-8c2b-6c1ea0acc536">
 
    - Location Access to "s3://starburst-galaxy-workshop/org_a (e.g. walmart)/*"
+  
+   <img width="899" alt="image" src="https://github.com/starburstdata/SA-Galaxy-Workshop/assets/115039992/3d92dfbe-8476-439e-bf7f-46a44ab51d91">
+
    - Select Only Access to RDBMS Catalog
    - Full access to s3 catalog (read/write)
 7. Add users to cluster with the role created in Step #6 above
