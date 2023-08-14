@@ -4,6 +4,8 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
 
 ## Steps to Prepping for an Onsite Galaxy Workshop
 
+****DANGER! You need to validate that Galaxy can issue queries from the UI and the client can access Galaxy IP/DNS from their work WIFI/VPN ****DANGER****
+
 1. Get list of attendees from Prospect
    - Identify Workshop coordinator/lead from prospect and request the following information
    - Understand # of attendees [Modules designed for smaller total # of Attendees, 3-15]
