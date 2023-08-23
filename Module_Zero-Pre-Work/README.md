@@ -31,12 +31,12 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
 6. Create a Role to be used by attendees with the following constraints
    - Does not have "Grant to creating role?" access on the Add new Role screen
    - Has the following Account level permissions
-   - <img width="836" alt="image" src="https://github.com/starburstdata/SA-Galaxy-Workshop/assets/115039992/90531608-79d2-4954-8c2b-6c1ea0acc536">
+      <img width="836" alt="image" src="https://github.com/starburstdata/SA-Galaxy-Workshop/assets/115039992/90531608-79d2-4954-8c2b-6c1ea0acc536">
 
    - Location Access to "s3://starburst-galaxy-workshop/org_a (e.g. walmart)/*"
   
-   <img width="899" alt="image" src="https://github.com/starburstdata/SA-Galaxy-Workshop/assets/115039992/3d92dfbe-8476-439e-bf7f-46a44ab51d91">
-
+      <img width="899" alt="image" src="https://github.com/starburstdata/SA-Galaxy-Workshop/assets/115039992/3d92dfbe-8476-439e-bf7f-46a44ab51d91">
+   - Table Privileges (All Schemas / All Tables, **Select from table**)
 7. Add users to cluster with the role created in Step #6 above
      - Note the invite link is currently only valid for 24hrs so please complete this step within that timeframe of the workshop starting.
 8. Delete Sample Cluster that comes by default with the domain.
