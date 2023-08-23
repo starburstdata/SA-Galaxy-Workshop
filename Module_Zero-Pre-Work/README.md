@@ -37,7 +37,6 @@ Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
   
    <img width="899" alt="image" src="https://github.com/starburstdata/SA-Galaxy-Workshop/assets/115039992/3d92dfbe-8476-439e-bf7f-46a44ab51d91">
 
-   - Select Only Access to RDBMS Catalog
 7. Add users to cluster with the role created in Step #6 above
      - Note the invite link is currently only valid for 24hrs so please complete this step within that timeframe of the workshop starting.
 8. Delete Sample Cluster that comes by default with the domain.
