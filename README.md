@@ -12,4 +12,5 @@ Module 2 - Clusters
 
 Module 3 - Data Discovery
 
+After the Workshop....What to do?
 
