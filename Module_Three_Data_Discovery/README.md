@@ -1,5 +1,5 @@
 ## Module 3 - Data Discovery
-### Link to Module 2 Slides : [Link](https://docs.google.com/presentation/d/1YGvXm9-Cei6s6F9pjsoBeXZ6prWWCqPfL12tL2wvndI/edit?usp=sharing)
+### Link to Module 3 Slides : [Link](https://docs.google.com/presentation/d/1YGvXm9-Cei6s6F9pjsoBeXZ6prWWCqPfL12tL2wvndI/edit?usp=sharing)
 
 Module 3 is a module that is designed to assist users in getting comfortable searching for their data within the Starburst Galaxy ecosystem. The module is designed to introduce the process of leveraging schema discovery, data products, and universal search to end-users. 
 
