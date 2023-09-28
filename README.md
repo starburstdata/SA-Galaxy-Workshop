@@ -1,5 +1,14 @@
 # SA-Galaxy-Workshop
 
+
+  ________       .__                        
+ /  _____/_____  |  | _____  ___  ______.__.
+/   \  ___\__  \ |  | \__  \ \  \/  <   |  |
+\    \_\  \/ __ \|  |__/ __ \_>    < \___  |
+ \______  (____  /____(____  /__/\_ \/ ____|
+        \/     \/          \/      \/\/     
+
+
 Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
 
 Recommended order of operations for the modules should be as follows:
