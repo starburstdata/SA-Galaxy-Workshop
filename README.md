@@ -2,7 +2,7 @@
 
 Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
 
-Order of Operations should be as follows:
+Recommended order of operations for the modules should be as follows:
 
 Module 0 - SA Pre-Work
 
