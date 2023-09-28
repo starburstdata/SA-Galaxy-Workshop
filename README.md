@@ -32,3 +32,5 @@ DATA ANALYST PERSONA FOCUSED:
 
 Does not Exist! If you think it would be useful, help us build it out!
 
+Join us on Slack! Ask questions, etc....
+#galaxyworkshops
