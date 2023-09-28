@@ -10,7 +10,7 @@ Recommended order of operations for the modules should be as follows:
 
 [Module 2 - Clusters](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_Two_Cluster_Creation_And_Admin/readme.md)
 
-Module 3 - Data Discovery
+[Module 3 - Data Discovery](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_Three_Data_Discovery/README.md)
 
 After the Workshop....What to do?
 
