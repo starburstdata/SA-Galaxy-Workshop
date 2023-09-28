@@ -20,9 +20,9 @@ Each module comes with a set of slides that are linked at the top of each module
 
 DATA ENGINEER PERSONA FOCUSED:
 
-[Module 0 - SA Pre-Work](https://github.com/starburstdata/SA-Galaxy-Workshop/tree/main/Module_One-Galaxy-Overview)
+[Module 0 - SA Pre-Work](https://github.com/starburstdata/SA-Galaxy-Workshop/tree/main/Module_Zero-Pre-Work)
 
-[Module 1 - Overview](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_One-Galaxy-Overview/readme.md)
+[Module 1 - Overview](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_One-Galaxy-Overview)
 
 [Module 2 - Clusters](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_Two_Cluster_Creation_And_Admin/readme.md)
 
