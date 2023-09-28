@@ -1,3 +1,11 @@
+
+       _____             .___    .__           ___________.__                          
+      /     \   ____   __| _/_ __|  |   ____   \__    ___/|  |_________   ____   ____  
+     /  \ /  \ /  _ \ / __ |  |  \  | _/ __ \    |    |   |  |  \_  __ \_/ __ \_/ __ \ 
+    /    Y    (  <_> ) /_/ |  |  /  |_\  ___/    |    |   |   Y  \  | \/\  ___/\  ___/ 
+    \____|__  /\____/\____ |____/|____/\___  >   |____|   |___|  /__|    \___  >\___  >
+            \/            \/               \/                  \/            \/     \/ 
+
 ## Module 3 - Data Discovery
 ### Link to Module 3 Slides : [Link](https://docs.google.com/presentation/d/1YGvXm9-Cei6s6F9pjsoBeXZ6prWWCqPfL12tL2wvndI/edit?usp=sharing)
 
