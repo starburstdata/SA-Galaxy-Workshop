@@ -1,3 +1,11 @@
+
+       _____             .___    .__           ________                 
+      /     \   ____   __| _/_ __|  |   ____   \_____  \   ____   ____  
+     /  \ /  \ /  _ \ / __ |  |  \  | _/ __ \   /   |   \ /    \_/ __ \ 
+    /    Y    (  <_> ) /_/ |  |  /  |_\  ___/  /    |    \   |  \  ___/ 
+    \____|__  /\____/\____ |____/|____/\___  > \_______  /___|  /\___  >
+            \/            \/               \/          \/     \/     \/ 
+
 # Module 1 - Starburst Galaxy Overview
 
 Link to Module 1 Slides : https://docs.google.com/presentation/d/10yZa72qK4E1a7qTeN5dlDfkwCF7lHu_-ClyJgunfYZ0/edit#slide=id.g237b692b070_1_0
