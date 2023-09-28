@@ -18,6 +18,8 @@ Each module comes with a set of slides that are linked at the top of each module
 
 **Recommended order of operations for the modules should be as follows:**
 
+DATA ENGINEER PERSONA FOCUSED:
+
 [Module 0 - SA Pre-Work](https://github.com/starburstdata/SA-Galaxy-Workshop/tree/main/Module_One-Galaxy-Overview)
 
 [Module 1 - Overview](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_One-Galaxy-Overview/readme.md)
@@ -26,5 +28,7 @@ Each module comes with a set of slides that are linked at the top of each module
 
 [Module 3 - Data Discovery](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_Three_Data_Discovery/README.md)
 
+DATA ANALYST PERSONA FOCUSED:
 
+Does not Exist! If you think it would be useful, help us build it out!
 
