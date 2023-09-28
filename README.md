@@ -8,8 +8,10 @@
      \______  (____  /____(____  /__/\_ \/ ____|
             \/     \/          \/      \/\/     
 
+Welcome to the home of the Starburst Galaxy Hands-on SA Workshop!
 
-Repository to be Used by SAs to facilitate On-Site Galaxy Workshops
+**What is the Galaxy Hands-on Workshop you ask?**
+The Galaxy Hands-on Workshop is a set of modules designed to be utilized by Starburst technical resources on-site with prospects or customers interested in hands on learning of the Starburst Galaxy platform.
 
 Recommended order of operations for the modules should be as follows:
 
