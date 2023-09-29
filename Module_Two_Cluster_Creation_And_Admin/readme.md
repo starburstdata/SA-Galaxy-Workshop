@@ -14,7 +14,7 @@ Module 2 is a general cluster creation and administration module. The module is 
 
 The module will cover the following areas:
 
-- Cluster Mode Types, Sizing and Auto-Suspend [10-15 Mins] Slides
+- Cluster Mode Types, Sizing and Auto-Scaling/Suspend [10-15 Mins] Slides
 
 - Catalog Specifics [10-15 Mins] Slides
 
