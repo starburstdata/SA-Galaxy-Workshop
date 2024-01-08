@@ -26,19 +26,13 @@
         - Record each username and password. You will provide these to the attendees yourself. Use a generic lab password.
         - The role assigned to these users will be created in step 6
      
-3. Configure Cross Account Role for the Prospects Domain (utilize the starburstdata-field account with the solution_architect role)
-   - Reference documentation within Galaxy [here](https://docs.starburst.io/starburst-galaxy/cloud-settings/aws.html)
-   - Reference documentation for AWS [here](https://docs.starburst.io/starburst-galaxy/security/external-aws.html#cross-account-iam-role)
      
-4. Copy Data into Requisite location within AWS s3, reference this [doc](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_Zero-Pre-Work/AWS_S3_Setup.pdf) for more info
-   - Download the PDF to view, or click "More Pages" at the very bottom to see entirety of PDF
-     
-5. Create an RDBMS to be used later if needed (Federation or Data Products or Data Discovery) **the instructions below reference Redshift but we will be using Postgres
+3. Create an RDBMS and s3 Catalog to be used later if needed (Federation or Data Products or Data Discovery) **the instructions below reference Redshift but we will be using Postgres
+   - Reference the following Starburst Academy Lesson to view the necessary credentials for both the PostgreSQL and S3 Catalogs
    - [RDBMS](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_One-Galaxy-Overview/Create_Database_Catalog_Galaxy.pdf)
-      - Reference the "Galaxy Onsite Workshop Postgres" credentials within Keeper to configure connection details (Reach out to an SA on the West 4 team if you need access)
-      - Select Only Access to RDBMS Catalog
+   - [S3](https://github.com/starburstdata/SA-Galaxy-Workshop/blob/main/Module_Zero-Pre-Work/AWS_S3_Setup.pdf)
         
-6. Create a Role to be used by attendees with the following constraints
+4. Create a Role to be used by attendees with the following constraints
    - Does not have "Grant to creating role?" access on the Add new Role screen
    - Has the following Account level permissions
       <img width="836" alt="image" src="https://github.com/starburstdata/SA-Galaxy-Workshop/assets/115039992/90531608-79d2-4954-8c2b-6c1ea0acc536">
@@ -50,7 +44,7 @@
   
      ![image](https://github.com/starburstdata/SA-Galaxy-Workshop/assets/103259241/46601d01-32d2-456e-b5cc-cd95651936bf)
 
-7. Add users to cluster with the role created in Step #6 above
+5. Add users to cluster with the role created in Step #6 above
      - Note the invite link is currently only valid for 24hrs so please complete this step within that timeframe of the workshop starting.
-8. Delete Sample Cluster that comes by default with the domain.
+6. Delete Sample Cluster that comes by default with the domain.
    
