@@ -10,6 +10,13 @@
 
 Link to Module 1 Slides : https://docs.google.com/presentation/d/10yZa72qK4E1a7qTeN5dlDfkwCF7lHu_-ClyJgunfYZ0/edit#slide=id.g237b692b070_1_0
 
+#### **Given the content of the Demo as well as the flexibility required when running a workshop, it might make sense to have another set of hands to help. As such, if open to it I would implore you to have your AE run through the demo as you guide them through the process. 
+##### This would provide the following two benefits:
+##### 1. Lend to the credibility of how easy Galaxy is to use.
+##### 2. Provide the SA leading the workshop to survey the room as they follow along with the demo. 
+
+## Overview of the Module 
+
 Module 1 is the Basic Starburst Galaxy overview module. The module is designed to provide an introduction to the Galaxy SaaS platform for your lab attendees. 
 The module will cover the following areas:
 
